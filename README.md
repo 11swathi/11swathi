@@ -17,7 +17,15 @@ Here are some ideas to get you started:
 I am currently doing a Masters in Data Science at the University of Maryland, College Park.
 
 
-🌱 I’m currently looking for full time jobs. I am interested in a Data Scienist, Data Analyst, Data Enginer, or Machine Learning Engineer roles.
+🌱 I’m currently looking for full time jobs. 
+
+
+I am interested in a Data Scienist, Data Analyst, Data Enginer, or Machine Learning Engineer roles.
+
+
+You can find my works in my GitHub Profile. I owrked in some really interesting projects. Check it out.
+
+
 
 📫 You can reach me at swathi.baskaran5@gmail.com
 
