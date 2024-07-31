@@ -16,10 +16,8 @@ Here are some ideas to get you started:
 -->
 I am currently doing a Masters in Data Science at the University of Maryland, College Park.
 
-🔭 I’m currently working on a project for my Big Data Systems course, I'm currently developing a simple conversational chatbot. It's a Flask-based web application integrated with a Redis server.
 
-🌱 I’m currently looking for unpaid internships.
+🌱 I’m currently looking for full time jobs. I am interested in a Data Scienist, Data Analyst, Data Enginer, or Machine Learning Engineer roles.
 
-
-📫 How to reach me: swathi.baskaran5@gmail.com
+📫 You can reach me at swathi.baskaran5@gmail.com
 
