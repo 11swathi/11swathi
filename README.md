@@ -23,7 +23,7 @@ I am currently doing a Masters in Data Science at the University of Maryland, Co
 I am interested in a Data Scienist, Data Analyst, Data Enginer, or Machine Learning Engineer roles.
 
 
-You can find my works in my GitHub Profile. I owrked in some really interesting projects. Check it out.
+You can find my works in my GitHub Profile. I worked in some really interesting projects. Check it out.
 
 
 
